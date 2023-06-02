@@ -1,6 +1,6 @@
 ---
 title: "Embracing Possibilities: My Journey into the World of Cryptocurrency and Beyond"
-date: ""
+date: "2023-06-02"
 description: "Join me on my journey into the captivating world of cryptocurrency and beyond as I embrace new possibilities and explore the boundless opportunities that await."
 ---
 
