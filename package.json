@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "rising-with-crypto",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Blog",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Whitney Grenaway <wmgrenaway@webuildweb3.org>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/Grenaway2/MY-BLOG-STARTER.git"
   },
   "dependencies": {
     "@fontsource/merriweather": "^5.0.2",
